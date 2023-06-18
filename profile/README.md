@@ -1,12 +1,11 @@
-## Hi there 👋
+## Vertretungsapp Development
 
-<!--
+Die Vertretungsapp ist dein Ersatz zu Indiware!
+Da die App und seine Komponten Open Source sind, findest Du hier alle Repositories!
 
-**Here are some ideas to get you started:**
+![Logo Vertretungsapp](https://github.com/Vertretungsapp/app/blob/master/static/logo/logo.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+#### Vertretungsapp Stats
+[![Release Pipeline](https://github.com/SachsenspieltCoding/vertretungsapp/actions/workflows/release.yml/badge.svg)](https://github.com/Vertretungsapp/app/actions/workflows/release.yml)
+[![Releases](https://img.shields.io/github/v/release/SachsenspieltCoding/vertretungsapp?display_name=tag)](https://github.com/Vertretungsapp/app/releases/latest)
